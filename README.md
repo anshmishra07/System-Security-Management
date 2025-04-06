@@ -58,14 +58,6 @@ Built using **Tkinter** for a simple and intuitive interface:
 
 ---
 
-## 📂 Project Structure
 
-SFAS-Project/
-│
-├── main.py                # Main application script (GUI + all logic)
-├── security.log           # Auto-generated file storing event logs
-├── README.md              # Project documentation and usage guide
-├── requirements.txt       # List of Python dependencies (e.g., cryptography)
-└── assets/                # (Optional) Folder to store screenshots or visual assets
 
 
